@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# react-query-demo
+Star wars info listing by using react-query
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
